@@ -1,4 +1,4 @@
-# Práctica [Número]: [Nombre de la Práctica]
+# Práctica 1: ALTA DE REGISTRO DE ESTUDIANTE EN EL SISTEMA UNIVERSITARIO
 
 ## Información General
 * **Asignatura:** Fundamentos de Programación
