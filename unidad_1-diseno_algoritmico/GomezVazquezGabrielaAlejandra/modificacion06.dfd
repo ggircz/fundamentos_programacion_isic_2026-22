@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingresa los segundos totales'
+5
+1
+8
+segundos
+6
+1
+5
+horas
+21
+trunc (segundos/3600)
+6
+1
+5
+resto
+25
+trunc (segundos MOD 3600)
+6
+1
+7
+minutos
+16
+trunc (resto/60)
+6
+1
+17
+segundosRestantes
+12
+resto MOD 60
+4
+1
+19
+'Es una   ', horas 
+4
+1
+22
+'Con minutos', minutos
+4
+1
+39
+'Segundos Restantes', segundosRestantes
+1
